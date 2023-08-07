@@ -1,7 +1,4 @@
-header{
-    width: 1440px;
-    height: 72px;
-}
+
 nav .nav-fixed{
     border-bottom: 1px solid #E7E9FC;
     width: 1440px;
@@ -74,6 +71,10 @@ nav .logo-studio{
     letter-spacing: 0.02em;
     text-align: left;
     
+}
+header{
+    width: 1440px;
+    height: 72px;
 }
 main{
     width: 1440px;
